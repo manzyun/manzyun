@@ -72,6 +72,11 @@ Started working :: 2011-04-01
 - gRPC-web implementation without Docker
 
 * Sensational Infomation
+** WAIS-3 Reports
+- 2016-04-06
+  - [[https://github.com/manzyun/manzyun/blob/master/WAIS_3_20150406-jp.org][Japanese (Original)]]
+  - [[https://github.com/manzyun/manzyun/blob/master/WAIS_3_20150406.org][English (Translate by DeepL)]]
+
 ** My Interesting
 The whole story; the popularization of the creative act. The use of computers to aid and enhance the creative process.
 
