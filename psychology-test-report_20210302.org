@@ -1,0 +1,110 @@
+#+TITLE: Psycological examination Report
+
+/This report is written for Hidetsugu. The original text of this report is in Japanese, and this document has been
+machine translated by DeepL./
+
+- Subject :: TAKAHASHI Hidetsugu
+- Date :: 2020-03-02
+- Inspection Agency :: Medical Corporation KEIJINKAI Sapporo Ota Hospital
+- Primary Care physician :: Dr.Y
+- Inspector :: T -- Public relations psychologist in Japan
+
+We have conducted psychological tests to determine whether developmental weaknesses (such as inattention and weak social communication) are related to the background of Takahashi's problems.
+
+Please use this information to understand your own characteristics.
+
+* Performed tests
+
+| Tests Name | Date of Implementation | Summaries of Tests                                                                                                                                                                                                                 |
+|------------+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| WAIS-4     | 2020-12-04             | This test examines the ability to use language, process information seen with the eyes, remember and process information heard through the ears, and work quickly. From this test, you can find out your strengths and weaknesses. |
+| CAARS      | 2020 年 12 月 21 日    | It is a self-rating test to determine the extent to which inattention problems and hyperactivity-impulsivity problems are observed.                                                                                                |
+| ADOS-2     | 2020 年 12 月 21 日    | It is a test that examines the nature of interpersonal relationships (communication) and the tendency for limited and repetitive behavior.                                                                                         |
+
+
+
+* WAIS-IV Result
+|                                  | Total Score | Percentile Rank | Confidence Interval (90%) | Descriptive Classification |
+|----------------------------------+-------------+-----------------+---------------------------+----------------------------|
+| Full Scale IQ(FSIG)              |          95 |              37 |                     91-99 | average - average          |
+| Verbal Comprehension (VCI) /GAI/ |         108 |              70 |                   102-113 | average - average          |
+| Perceptual Reasoning (PRI) /GAI/ |         105 |              63 |                    99-111 | average - average          |
+| Working Memory (WMI) /CPI/       |          94 |              34 |                    88-100 | average - average          |
+| Processing Speed (PSI) /CPI/     |          73 |               4 |                     69-83 | very low - under average   |
+
+
+The FSIQ was 95, but because of the large gap between the two measures,
+we refrained from inferring general intellectual ability from this one measure
+and used two alternative measures:
+the General Intellectual Ability Index (GAI) and the Cognitive Proficiency Index (CPI).
+
+The GAI was 106, suggesting that the so-called verbal intellectual ability and visual reasoning ability are standard.
+On the other hand, the CPI was 80, suggesting that Hidetsugu's ability to process
+information that requires attention and psychological control is particularly weak, both in general and in particular.
+
+* Comprehensive Findings
+In terms of early developmental episodes,
+it was reported that the child was born fetus growth retarded (2,358 g)
+and "had a speech delay around the age of three".
+
+From elementary school on, he reported that he had repeatedly lied and would explode in anger when it was pointed out to him.
+
+In addition to this, the symptoms of inattention, such as making too many mistakes,
+forgetting or looking for things, difficulty in planning and working on assignments and tasks,
+difficulty in retention of learning, derailment of thinking, and failure to check,
+had a great impact on her academically, professionally, and personally.
+
+In terms of social communication, although he was not completely incapable of
+inferring other people's points of view, his lack of understanding of
+interpersonal relationships, as well as his tendency to talk too much about
+his own opinions and knowledge, indicated that he had been unable to get along
+with those around him.
+
+Pillow phrases such as "frank talk" and "in a nutshell",
+which are used for eye-hand coordination regardless of the context[fn:1],
+as well as a somewhat obsessive way of talking about topics,
+are also expected to make interpersonal relationships more formal and awkward.
+
+In addition, he tended to stick to his own ideas,
+deviating from his duties and topics of conversation,
+and becoming easily angered and confrontational toward those
+who disagreed with him, suggesting that he tended to be socially outspoken.
+
+The background to the above behavioral tendencies may be related to developmental characteristics such as inattentive symptoms and weak social communication.
+In addition to this, he also has sleep problems, which suggests that he has consistently had great difficulty adjusting to the workplace.
+
+-----
+
+* About the Future
+** About Employment
+Although his have a certain amount of work experience,
+he is under a great deal of stress due to interpersonal conflicts,
+so it is recommended that he first go to a day care center, etc.,
+and then work at a continuous employment support center, etc., while receiving guidance.
+
+** Give Them Enough Time to Complete the Task.
+Considering the number of mistakes, attention deficit,
+and weakness in executive functions,
+it would be difficult for her to complete the same amount and quality of work
+in the same amount of time as other people. Therefore,
+it would be desirable to have consideration given to the time, quantity,
+and quality of work when working in the future.
+
+In addition, since they are not good at asking questions or asking for
+confirmation when necessary, it would be good for the supporters to talk to
+them frequently and create an environment where both parties can proceed with
+their work with peace of mind.
+
+** Develop Social Skills.
+Maladjustment in the workplace may be related to weaknesses in processing skills,
+but more than that, it is likely to be related to weaknesses in interpersonal skills[fn:2].
+For this reason, social skills training, etc.
+Therefore, it will be a challenge for them to learn how to relate to others
+better through social skills training.
+
+*The above are just some of the aspects of your characteristics that can be obtained from the psychological tests that were conducted this time.*
+
+* Footnotes
+[fn:1] Develop or rephrase the story in chronological order and anymore...
+
+[fn:2] Should apologize when you are late or when you have to be late and etc...
