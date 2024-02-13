@@ -5,26 +5,17 @@ I've only written about it as much as graffiti in the toilets of a placebo club.
 
 This document *relies* on [[https:www.deepl.com][DeepL]].
 
+There is no such noble thing as "self-respect" in this document.
 
-** For Developer, Designer, Arthist, and others
-There is no such noble thing as "self-respect" in this document. +/Let the trolls eat that stuff/+.
-
-This document is nothing more than an object class "Safe" by SCP Foundation standards, and the meme contamination to you that goes along with it is nothing more than "when you go along with the delusional ramblings of a slightly tired stranger" compared to "SCP-040-JP".
-
-Nevertheless, if you are a meme-contamination freak or you don't know the term, I recommend you to distance yourself from this document and myself by clicking the back button of your browser if you say, "Reading such a gloomy document makes me feel sick".
-
-
-** For Employer
-If you're not prepared to accept or be infected with the document memes and mind viruses that ooze out of the following toilet graffiti-like documents, it's better for both of us if you don't think about hiring them.
-
+My "self-respect" is eaten by the trolls. That nestle in people not limited to myself.
 
 * Not Sensational Infomation
-- Age :: 30
+- Age :: 33
 - Sex :: Male
 - Real Name :: Hidetsugu TAKAHASHI / 高橋秀羅
 - Names on the World Wide Web :: manzyun / まんじゅ（´ん｀）
 - Current Residence :: Sapporo Hokkaido Japan
-- Job :: The rural end of the country's temporary worker
+- Job :: None. Poor, foolish, and humble wonder. Undergoing rehabilitation in a social welfare program.
 
 ** Jobs History
 
@@ -71,15 +62,11 @@ Started working :: 2011-04-01
 *** Others
 - gRPC-web implementation without Docker
 
-* Sensational Infomation
-** Psychological Examination Report
-- 2021-03-02
-  - [[https://github.com/manzyun/manzyun/blob/master/psychology-test-report_20210302_jp.org][Japanese (Original)]]
-  - [[https://github.com/manzyun/manzyun/blob/master/psychology-test-report_20210302.org][English (Translate by DeepL)]]
-** WAIS-3 Reports
-- 2016-04-06
-  - [[https://github.com/manzyun/manzyun/blob/master/WAIS_3_20150406-jp.org][Japanese (Original)]]
-  - [[https://github.com/manzyun/manzyun/blob/master/WAIS_3_20150406.org][English (Translate by DeepL)]]
+** Develop environment of mine machine
+- OS :: Ubuntu 23.10 x86_64
+- CPU :: AMD FX-8320E (8) @ 3.200GHz
+- GPU :: AMD ATI Radeon RX 470/480/570/570X/580/580X/590
+- RAM :: 32GB
 
 ** My Interesting
 The whole story; the popularization of the creative act. The use of computers to aid and enhance the creative process.
@@ -91,12 +78,14 @@ The whole story; the popularization of the creative act. The use of computers to
 - Embedded
 
 It's probably the first language I've ever been able to program like that. So I'm very passionate about Python like "a baby bird that thinks the first time it was born is its parent".
+
 **** Godot Game Engine
 I became interested in programming exactly because I wanted to make video games, and that desire is still smoldering.
 
 I'm very skeptical of the "video game brain" and "anti-videogame" mentality that is so prevalent in Japan these days, and I'd even like to make a game for those people (with a hint of irony).
 
 Godot Engine is a free software that works on Linux, and I'm interested in it because I'm looking forward to its future development.
+
 **** Nim
 Nim is a language that I find very interesting. However, I haven't looked into it enough to be able to say anything about it.
 
@@ -106,7 +95,6 @@ Nim is a language that I find very interesting. However, I haven't looked into i
 - Inkscape
 - Krita
 - Blender
-- Dust3D
 
 I won't bother posting hyperlinks to these. But they are important tools.
 
@@ -126,15 +114,13 @@ I've always been incapable of writing logical sentences in Japanese, even in my 
 
 To be more specific, I'm probably suffering from paranoia, schizophrenia and hyperactivity disorder. However, no doctor has ever diagnosed me as such.
 
-*** [Bullet|org-mode] Journal
-It's really a frustrating and sad story for me, but I realized the importance and usefulness of it a week before I wrote this document about it.
+* Sensational Infomation
+** Psychological Examination Report
+- 2021-03-02
+  - [[https://github.com/manzyun/manzyun/blob/master/psychology-test-report_20210302_jp.org][Japanese (Original)]]
+  - [[https://github.com/manzyun/manzyun/blob/master/psychology-test-report_20210302.org][English (Translate by DeepL)]]
+** WAIS-3 Reports
+- 2016-04-06
+  - [[https://github.com/manzyun/manzyun/blob/master/WAIS_3_20150406-jp.org][Japanese (Original)]]
+  - [[https://github.com/manzyun/manzyun/blob/master/WAIS_3_20150406.org][English (Translate by DeepL)]]
 
-Either in my own head or in my heart at this point, but it was important to get it down on paper, and in time. If I wanted to forget it, I could set it on fire and burn it in front of me.
-
-Naturally, I focus on the present (that's when I want it most, the "jobs") I can, and I think I'm even less overly excited about it.
-
-However, this also means that if I let go of my emotional control a little bit, I get too excited like a "piggy dog".
-
-** Luxury items
-*** TODO Self-Build Keyboard
-*** TODO Hookah | Tobacco(Roll Your Own and Holder)
